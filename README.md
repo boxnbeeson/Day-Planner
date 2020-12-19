@@ -21,7 +21,7 @@ Simple day planner to schedule the event's happening throughout your current wor
   <br>
   Name: Jacob Beeson
   <br>
-  Github Link: github.com/<jpbeeson>
+  Github Link: github.com/jpbeeson
   <br>
   Email: <beeson.jp@gmail.com>
   ## <a name="license"></a>License
