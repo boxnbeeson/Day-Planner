@@ -8,6 +8,7 @@ Simple day planner to schedule the event's happening throughout your current wor
     - Green = future time slot
   <br>
   https://jpbeeson.github.io/Day-Planner/
+  
   ## Table of Contents
   * [Demo](#demo)
   * [Developer's Information](#devInfo)
