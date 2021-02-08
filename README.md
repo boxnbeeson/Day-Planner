@@ -7,7 +7,7 @@ Simple day planner to schedule the event's happening throughout your current wor
     - Red  = current hour
     - Green = future time slot
   <br>
-  https://jpbeeson.github.io/Day-Planner/
+  https://boxnbeeson.github.io/Day-Planner/
   
   ## Table of Contents
   * [Demo](#demo)
@@ -21,8 +21,8 @@ Simple day planner to schedule the event's happening throughout your current wor
   <br>
   Name: Jacob Beeson
   <br>
-  Github Link: github.com/jpbeeson
+  Github Link: github.com/boxnbeeson
   <br>
-  Email: <beeson.jp@gmail.com>
+  Email: <boxnbeeson@gmail.com>
   ## <a name="license"></a>License
   MIT
